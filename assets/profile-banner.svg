@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="400" viewBox="0 0 1280 400" role="img" aria-labelledby="title desc">
+<title id="title">Huzaifa Haider — AI Engineer and Team Lead</title>
+<desc id="desc">Building useful AI, from conversation to automation. Generative AI, voice agents, healthcare systems.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0A1426"/><stop offset="1" stop-color="#112E3B"/></linearGradient><linearGradient id="accent"><stop stop-color="#57E3C1"/><stop offset="1" stop-color="#63BAF6"/></linearGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M 40 0 L 0 0 0 40" fill="none" stroke="#91C4D1" stroke-opacity=".055"/></pattern></defs>
+<rect width="1280" height="400" rx="24" fill="url(#bg)"/><rect width="1280" height="400" rx="24" fill="url(#grid)"/>
+<rect x="56" y="57" width="5" height="26" rx="2.5" fill="#57E3C1"/>
+<text x="78" y="77" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="600" letter-spacing="3" fill="#76E7D1">AI ENGINEER / TEAM LEAD</text>
+<text x="56" y="156" font-family="Segoe UI,Arial,sans-serif" font-size="62" font-weight="700" letter-spacing="-2" fill="#F3F8FF">Huzaifa Haider</text>
+<text x="59" y="205" font-family="Segoe UI,Arial,sans-serif" font-size="26" fill="#BFD0E1">Building useful AI.</text>
+<text x="59" y="242" font-family="Segoe UI,Arial,sans-serif" font-size="26" fill="#BFD0E1">From conversation to automation.</text>
+<path d="M59 282 H646" stroke="#355360"/>
+<text x="59" y="320" font-family="Segoe UI,Arial,sans-serif" font-size="16" letter-spacing="1.5" fill="#8EACBE">GENERATIVE AI</text><circle cx="221" cy="314" r="3" fill="#57E3C1"/>
+<text x="239" y="320" font-family="Segoe UI,Arial,sans-serif" font-size="16" letter-spacing="1.5" fill="#8EACBE">VOICE AGENTS</text><circle cx="397" cy="314" r="3" fill="#57E3C1"/>
+<text x="415" y="320" font-family="Segoe UI,Arial,sans-serif" font-size="16" letter-spacing="1.5" fill="#8EACBE">HEALTHCARE SYSTEMS</text>
+<g transform="translate(945 194)" fill="none"><circle r="117" stroke="#57E3C1" stroke-opacity=".12"/><circle r="88" stroke="#63BAF6" stroke-opacity=".18"/><path d="M-155 0H-89M89 0H155M0-154V-117M0 117V154" stroke="#5CAFAE" stroke-opacity=".4"/>
+<rect x="-112" y="-64" width="224" height="128" rx="25" fill="#0D2333" stroke="#385F6E"/>
+<g stroke="url(#accent)" stroke-width="6" stroke-linecap="round"><path d="M-75-10V10M-58-25V25M-41-13V13M-24-36V36M-7-48V48M10-28V28M27-13V13M44-34V34M61-22V22M78-8V8"/></g>
+<g fill="#57E3C1"><circle cx="0" cy="-117" r="5"/><circle cx="117" cy="0" r="5"/><circle cx="-83" cy="83" r="5"/></g></g>
+<text x="945" y="363" text-anchor="middle" font-family="Consolas,monospace" font-size="13" fill="#7C9FAE">Python · LLMs · APIs · Automation</text></svg>
