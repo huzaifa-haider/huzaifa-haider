@@ -58,15 +58,45 @@ Endpoints for querying and updating patient records through structured commands 
 | [Word Completion with LSTM](https://github.com/huzaifa-haider/Word_Completion_using_LSTM) | A recurrent neural network project for next-word prediction. |
 | [MentorMe](https://github.com/huzaifa-haider/mentorme-using-Firebase) | A Kotlin/Firebase mentorship app with booking, search, reviews, and chat. |
 
-## Tools I work with
+## 🛠️ Tech Stack
 
-| Area | Technologies |
-| :--- | :--- |
-| **AI & GenAI** | LLM APIs · LangChain · Embeddings · Semantic search · LoRA/QLoRA · DPO |
-| **Backend** | Python · FastAPI · Django · REST APIs · Asynchronous background jobs |
-| **Data & frontend** | PostgreSQL · MySQL · SQL · Supabase · Firebase · JavaScript · Next.js |
-| **Orchestration & tools** | LiveKit · MCP · n8n · Hugging Face · Unsloth · LLaMA Factory |
-| **Engineering** | Git/GitHub · Postman · Linux · Automated testing · Debugging · Docker basics |
+<h3>AI & LLMs</h3>
+<p>
+  <img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&amp;logo=langchain&amp;logoColor=white" />
+  <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&amp;logo=huggingface&amp;logoColor=black" />
+  <img alt="Unsloth" src="https://img.shields.io/badge/Unsloth-61DDAA?style=for-the-badge&amp;logoColor=white" />
+  <img alt="LLaMA Factory" src="https://img.shields.io/badge/LLaMA%20Factory-7C3AED?style=for-the-badge&amp;logoColor=white" />
+  <img alt="LoRA / QLoRA" src="https://img.shields.io/badge/LoRA%20%2F%20QLoRA-2563EB?style=for-the-badge&amp;logoColor=white" />
+  <img alt="Semantic Search" src="https://img.shields.io/badge/Semantic%20Search-0F766E?style=for-the-badge&amp;logoColor=white" />
+</p>
+
+<h3>Backend & languages</h3>
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" />
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white" />
+  <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&amp;logo=django&amp;logoColor=white" />
+  <img alt="REST APIs" src="https://img.shields.io/badge/REST%20APIs-2563EB?style=for-the-badge&amp;logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" />
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=white" />
+</p>
+
+<h3>Data & storage</h3>
+<p>
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" />
+  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&amp;logo=supabase&amp;logoColor=black" />
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&amp;logo=firebase&amp;logoColor=white" />
+</p>
+
+<h3>Voice, automation & tools</h3>
+<p>
+  <img alt="LiveKit" src="https://img.shields.io/badge/LiveKit-111827?style=for-the-badge&amp;logoColor=white" />
+  <img alt="MCP" src="https://img.shields.io/badge/MCP-7656CB?style=for-the-badge&amp;logoColor=white" />
+  <img alt="n8n" src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&amp;logo=n8n&amp;logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black" />
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&amp;logo=postman&amp;logoColor=white" />
+</p>
 
 ## Experience
 
@@ -87,6 +117,17 @@ DeepLearning.AI coursework:
 - LangChain for LLM Application Development
 - ChatGPT Prompt Engineering for Developers
 - LangChain Chat with Your Data
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/huzaifa-haider?tab=repositories"><img width="450" src="https://github-stats-extended.vercel.app/api?username=huzaifa-haider&amp;show_icons=true&amp;hide_rank=true&amp;bg_color=0D1728&amp;title_color=57E3C1&amp;text_color=BFCEE0&amp;icon_color=63BAF6&amp;border_color=254252&amp;border_radius=14" alt="Huzaifa's GitHub statistics: stars, commits, pull requests, issues, and contributions" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/huzaifa-haider?tab=repositories"><img width="450" src="https://github-stats-extended.vercel.app/api/top-langs/?username=huzaifa-haider&amp;layout=compact&amp;langs_count=8&amp;bg_color=0D1728&amp;title_color=57E3C1&amp;text_color=BFCEE0&amp;border_color=254252&amp;border_radius=14" alt="Most used languages across my public repositories" /></a>
+</p>
+
+<p align="center"><sub>Public GitHub activity · Cards refresh periodically · Language usage reflects repository code, not proficiency.</sub></p>
 
 ---
 
